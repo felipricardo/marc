@@ -1,0 +1,14 @@
+#bg {
+    background-color: #f6f6f6;
+    width: 445px;
+    height: 860px;
+}
+#logo {
+    width: 250px;
+    height: 250px;
+    position: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-right: 20px;
+}
